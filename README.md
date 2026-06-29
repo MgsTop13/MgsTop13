@@ -20,14 +20,18 @@ Gosto de construir aplicações escaláveis, APIs bem estruturadas e interfaces 
 
 ## 🛠 Stack Tecnológica
 
+### Linguagem mais usada
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=sass)
+
+### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react)
 
 ### Ferramentas
